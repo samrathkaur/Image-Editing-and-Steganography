@@ -4,6 +4,8 @@ main.py is for image editing and steganography. It also includes histograms to v
 
 second.py doesn't include stegnography. 
 
+##TO RUN THE FILES WRITE THIS IN TERMINAL 
+
 To run main.py - 
 ```
 streamlit run main.py
