@@ -2,7 +2,7 @@
 
 main.py is for image editing and steganography. It also includes histograms to view changes in original and edited images.
 
-second.py doesn't include stegnography. 
+second.py doesn't include steganography. 
 
 ## TO RUN THE FILES WRITE THIS IN TERMINAL 
 
